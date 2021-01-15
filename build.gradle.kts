@@ -10,7 +10,7 @@ mirai {
     coreVersion = "2.0-RC" // mirai-core version
 }
 
-group = "org.example"
+group = "com.github.bpazy"
 version = "0.1.0"
 
 repositories {
